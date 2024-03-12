@@ -1,0 +1,10 @@
+modelname,Accuracy, precision, recall, fscore, Roc-AUC
+lr,kolkata_WE_100.csv,0.173,0.175,0.174,0.173,0.507
+gnb,kolkata_WE_100.csv,0.157,0.158,0.158,0.147,0.494
+svm,kolkata_WE_100.csv,0.149,0.155,0.150,0.142,0.506
+sgd,kolkata_WE_100.csv,0.167,0.448,0.166,0.073,0.504
+adaboost,kolkata_WE_100.csv,0.163,0.164,0.163,0.163,0.504
+gboost,kolkata_WE_100.csv,0.155,0.155,0.156,0.155,0.493
+xgboost,kolkata_WE_100.csv,0.980,0.980,0.980,0.980,0.505
+lr,delhi_WE_100.csv,0.127,0.127,0.127,0.126,0.502
+gnb,delhi_WE_100.csv,0.130,0.130,0.131,0.125,0.504
